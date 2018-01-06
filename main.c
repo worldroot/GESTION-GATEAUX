@@ -7,13 +7,16 @@
 int menu()
 {
 	int choix;
-	printf("-1-Ajouter Gateau\n");
-	printf("-2-Afficher les Gateaux\n");
-	printf("-3-Position gateau \n" );
-	printf("-4-Initialiser matrice vente \n");
-	printf("-5-Vendre gateaux\n");
-	printf("-6-Affichage Recette\n");
-	printf(" 7-EXIT\n" );
+	printf("                         ---------------------------------\n");
+	printf("                        |    Tapez Le Numero D'option     |\n");
+	printf("                         ---------------------------------\n\n");
+	printf("						-1-Ajouter Gateau\n");
+	printf("						-2-Afficher les Gateaux\n");
+	printf("						-3-Position gateau \n" );
+	printf("						-4-Initialiser matrice vente \n");
+	printf("						-5-Vendre gateaux\n");
+	printf("						-6-Affichage Recette\n");
+	printf("						 7-EXIT\n" );
 
 	printf("saisir votre choix : " );
 	scanf("%d",&choix);
@@ -99,5 +102,45 @@ do {
 
 
 
-    return 0;
+ 
+
+printf("\n\n\n\n                                                Developed By\n\n");
+Sleep(1000);
+printf("                                               M");
+Sleep(300);
+printf("e");
+Sleep(300);
+printf("h");
+Sleep(300);
+printf("d");
+Sleep(300);
+printf("i");
+
+Sleep(300);
+printf("  ");
+Sleep(300);
+printf("B");
+Sleep(300);
+printf("e");
+Sleep(300);
+printf("h");
+Sleep(300);
+printf("i");
+Sleep(300);
+printf("r");
+Sleep(300);
+printf("a\n\n\n");
+Sleep(300);
+printf("                                   appuyer sur une  toucher pour Quitter\n\n\n");
+Sleep(1000);
+printf("                                                    .");
+Sleep(500);
+printf(".");
+Sleep(500);
+printf(".");
+
+system("pause>null");
+system("@cls||clear");
+
+return 0;
 }
