@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515278152 source:c:\users\mehdi\desktop\esprit\programmation procédurale\séries ex\gateau v2\gateauv2.c
+	"gateauv2.h"
+
+1514398382 c:\users\mehdi\desktop\esprit\programmation procédurale\séries ex\gateau v2\gateauv2.h
+
+1514407350 source:c:\users\mehdi\desktop\esprit\programmation procédurale\séries ex\gateau v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gateauv2.h"
+
